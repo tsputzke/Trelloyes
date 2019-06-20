@@ -38,4 +38,4 @@ const STORE = {
   },
 }
 
-export!!!!!!!! IMPORT TO INDEX.JS and passed to App as its store prop
+export default STORE;
